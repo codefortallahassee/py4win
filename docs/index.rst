@@ -33,7 +33,7 @@ Python in a Windows Universe
    :maxdepth: 2
 
    cheatsheets/quickstart
-
+   python-setup/installation
 
 .. attention:: 
 
