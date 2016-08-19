@@ -1,5 +1,6 @@
+*******************
 Python Installation
-###################
+*******************
 
 Python version 2 or 3?
 ======================
@@ -27,12 +28,12 @@ Download Python
 ===============
 
 32-Bit Python
-^^^^^^^^^^^^^
+-------------
 * `Download Python 2.7.12 (32-bit) <https://www.python.org/ftp/python/2.7.12/python-2.7.12.msi>`_
 * `Download Python 3.5.2 (32-bit) <https://www.python.org/ftp/python/3.5.2/python-3.5.2.exe>`_
 
 64-Bit Python
-^^^^^^^^^^^^^
+-------------
 * `Download Python 2.7.12 (64-bit) <https://www.python.org/ftp/python/2.7.12/python-2.7.12.amd64.msi>`_
 * `Download Python 3.5.2 (64-bit) <https://www.python.org/ftp/python/3.5.2/python-3.5.2-amd64.exe>`_
 
@@ -43,7 +44,7 @@ Install Python
 ==============
 
 Install Python 2.7
-^^^^^^^^^^^^^^^^^^
+------------------
 Double-click on the Python 2.7 MSI that you downloaded to launch the installer, and click the **"Next"** button at each screen to accept the default settings.
 
 .. image:: ../_static/python27_screen1.png
@@ -65,7 +66,7 @@ Double-click on the Python 2.7 MSI that you downloaded to launch the installer, 
 Click **"Finish"** to complete the Python 2.7 installation.
 
 Install Python 3.5
-^^^^^^^^^^^^^^^^^^
+------------------
 Double-click on the Python 3.5 executable (.exe) that you downloaded to launch the installer.
 
 .. note:: On the first screen make sure to check the **"Add Python 3.5 to PATH"** checkbox.
