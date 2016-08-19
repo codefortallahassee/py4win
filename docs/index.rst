@@ -34,6 +34,7 @@ Python in a Windows Universe
 
    cheatsheets/quickstart
    python-setup/installation
+   package-mgmt/packages
 
 .. attention:: 
 
