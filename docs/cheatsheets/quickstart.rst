@@ -165,7 +165,7 @@ Step 9: Install a Code & Markup Editor
     {
         "rulers": [72, 79],
         "translate_tabs_to_spaces": true,
-        "draw_white_space_all": "all",
+        "draw_white_space": "all",
         "tab_size": 4
     }
 
