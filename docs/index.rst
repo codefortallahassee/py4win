@@ -35,6 +35,7 @@ Python in a Windows Universe
    cheatsheets/quickstart
    python-setup/installation
    package-mgmt/packages
+   virtual-envs/virtualenv
 
 .. attention:: 
 
